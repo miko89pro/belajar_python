@@ -24,4 +24,4 @@ statusmenikah = 'Sudah Kawin' if status else 'Belum Kawin'
 
 print(f"statusmenikah: {'Sudah Kawin' if status else 'Belum Kawin'}")
 
-print(statusmenikah)
+print(nama)
