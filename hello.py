@@ -20,7 +20,7 @@ print(c)
 #boolean
 status = False
 
-statusmenikah = 'Sudah Nikah' if status else 'Belum'
+statusmenikah = 'Sudah Nikah' if status else 'Belum Nikah'
 
 print(f"statusmenikah: {'Sudah Kawin' if status else 'Belum Kawin'}")
 
